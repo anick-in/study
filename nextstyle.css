@@ -1,0 +1,293 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-color: white;
+	color: #706767;
+
+
+	text-rendering: optimizeLegibility !important; 
+	-webkit-font-smoothing: antialiased; 
+	-webkit-line-break: after-white-space;
+}
+
+.card-div-button {
+	margin-left: -190px;
+	margin-top: 320px;
+	margin-right: 50px;
+	
+}
+
+.card-button {
+	background-color: white;
+	color: #618de8;
+	box-shadow: none;
+	border: 1px solid;
+	font-size: 0.8rem;
+	width: 140px;
+	height: 28px;
+	font-family: inherit;
+}
+
+.card-house-1 {
+	width: 280px;
+	height: 380px;
+}
+
+.card-house-2 {
+	width: 280px;
+	height: 380px;
+}
+
+.card-house-3 {
+	width: 280px;
+	height: 380px;
+}
+
+.card-house-4 {
+	height: 380px;
+}
+
+.card-first-col p{
+	margin-top: -10px;
+}
+
+.card-second-col p{
+	margin-top: -10px;
+}
+
+.card-third-col p{
+	margin-top: -10px;
+}
+
+h3 {
+	font-size: 1.5rem;
+}
+
+.characteristic h4 {
+	font-size: 1.5rem;
+}
+
+.description {
+	margin-top: 25px;
+}
+
+.description p {
+	margin-bottom: 25px;
+}
+
+.description h4 {
+	font-size: 1.5rem;
+}
+
+.footer {
+	background-color: #161616;
+}
+
+
+.footer-first-col {
+	margin-top: 20px;
+	color: grey;
+}
+
+.footer-last-li{
+	margin-top: 30px;
+}
+
+
+.footer-phone {
+	margin-top: 30px;
+}
+
+.footer-nav-1{
+	margin-top: 30px;
+	list-style: none;
+	margin-bottom: 20px;
+}
+
+.footer-nav-1 a {
+	color: #c9c9c9;
+	text-decoration: none;
+}
+
+.footer-nav-1 h3 {
+	color: grey;
+}
+
+.footer-nav-1 li {
+	margin-top: 18px;
+}
+
+.footer-shape {
+	margin-left: 5px;
+}
+
+.footer-space {
+	margin-top: 40px;
+}
+
+.footer-low-text {
+	color: #c9c9c9;
+	font-size: 0.75rem;
+	margin-bottom: 30px;
+	margin-top: 80px;
+}
+
+
+.grey-area {
+	background-color: #454545;
+}
+
+.grey-area-info {
+
+}
+
+.grey-area a {
+	text-decoration: none;
+	font-size: 0.9rem;
+	color: #128ee5;
+}
+
+.grey-area-img {
+	width: 580px;
+	height: 380px;
+	margin-top: 40px;
+	margin-bottom: 40px;
+}
+
+.grey-are-shape {
+	margin-left: 5px;
+}
+
+.grey-area p {
+	color: white;
+	font-size: 28pt;
+}
+
+.grey-area h6 {
+	color:#bfbbbb;
+	font-size: 16pt;
+}
+
+.infrastructure {
+	margin-bottom: 40px;
+}
+
+.infrastructure-head h4 {
+	font-size: 1.5rem;
+}
+
+.header-header {
+	font-size: 22pt;
+	font-family: 'Comfortaa', cursive;
+	text-transform: uppercase;
+    letter-spacing: 1px;
+}
+
+.logo {
+	padding-bottom: 20px; 
+	padding-top: 20px; 
+	width: 179px; 
+	height: 24px; 
+}
+
+.navigation {
+	float: right;
+	margin-top: 24px;
+}
+
+.navigation a {
+	color: #706767;
+	text-decoration: none;
+	margin-right: 32px;
+	font-size: 10pt;
+
+}
+
+.nav-char-2 {
+	font-weight: bold;
+
+}
+
+.new-section-cards {
+	background-color: #f7f7f7;
+}
+
+
+.new-section-cards h4 {
+	text-align: center;
+	font-size: 18pt;
+}
+
+.new-section-cards-head {
+	color: grey;
+}
+
+.new-section-div-button {
+	text-align: center;
+	
+}
+
+.new-section-card-button {
+	border: 0px solid;
+	background-color: black;
+	color: white;
+	font-size: 11pt;
+	width: 200px;
+	height: 36px;
+	font-family: inherit;
+	font-weight: bold;
+
+	margin-top: 10px;
+	margin-bottom: 20px;
+}
+
+.new-section-card-1 {
+	background-color: white;
+	margin-top: 20px;
+	margin-left: 140px;
+	margin-bottom: 50px;
+	font-size: 11pt;
+}
+
+.new-section-card-2 {
+	background-color: white;
+	margin-top: 20px;
+	margin-left: 15px;
+	margin-bottom: 50px;
+	font-size: 11pt;
+}
+
+.new-section-card-3 {
+	background-color: white;
+	margin-top: 20px;
+	margin-left: 15px;
+	margin-bottom: 50px;
+	font-size: 11pt;
+}
+
+.new-section-cards h5 {
+	font-size: 1.125rem;
+}
+
+.section-adress {
+    font-size: 0.8rem;
+    color: grey;
+}
+
+.info {
+	margin-left: 25px;
+}
+
+.section-button {
+	background-color: white;
+	color: #618de8;
+	box-shadow: none;
+	border: 1px solid;
+	font-size: 0.8rem;
+	width: 140px;
+	height: 28px;
+	font-family: inherit;
+
+	float: right;
+	margin-top: -73px;
+}
